@@ -1,0 +1,647 @@
+body {
+    background-image: url(hello\ kitty.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+ul {
+    float: center;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    list-style: none;
+    margin-top: -70px;
+    margin-left: 160px;
+    border-radius: 15px;
+    background-color: hotpink;
+    position: fixed;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+}
+
+h1 {
+    background-color: bisque;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+    border-radius: 50px;
+    margin-right: 200px;
+    margin-top: 190px;
+    width: 700px;
+    box-shadow: 5px 5px 8px pink, 10px 10px 8px pink, 15px 15px 8px rgb(172, 49, 70);
+    padding-left: 80px;
+    padding-bottom: 80px;
+    padding-top: 25px;
+
+}
+
+h2 {
+    margin-left: 50px;
+    margin-top: 390px;
+    font-size: 60px;
+    color: rgb(229, 2, 40);
+}
+
+.span1 {
+    font-size: 25px;
+    color: orangered;
+}
+
+.span2 {
+    color: black;
+    font-size: 25px;
+}
+
+.ells {
+    width: 400px;
+    margin-top: 195px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 60px;
+    color: white;
+    background-color: hotpink;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 15px;
+    margin-top: 300px;
+}
+
+
+h4 {
+    font-size: 60px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: hotpink;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 15px;
+    margin-bottom: -130px;
+}
+
+.fb {
+    width: 50px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 5000px;
+    margin-right: 500px;
+    box-shadow: 5px 5px 8px pink;
+    margin-top: -530px;
+    float: right;
+}
+
+.ig {
+    width: 53px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 499px;
+    margin-top: -450px;
+    box-shadow: 5px 5px 8px pink;
+}
+
+.email {
+    width: 50px;
+    border-radius: 10px;
+    float: left;
+    box-shadow: 5px 5px 8px pink;
+    float: right;
+    margin-right: 500px;
+    margin-top: -380px;
+}
+
+.tiktok {
+    width: 50px;
+    border-radius: 10px;
+    float: left;
+    box-shadow: 5px 5px 8px pink;
+    float: right;
+    margin-right: 500px;
+    margin-top: -310px;
+}
+
+.call {
+    width: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px pink;
+    float: right;
+    margin-right: 500px;
+    margin-top: -240px;
+}
+
+.fbb {
+    float: right;
+    margin-right: 300px;
+    margin-top: -519px;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+.igg {
+    float: right;
+    margin-right: 299px;
+    margin-top: -435px;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+.emm {
+    float: right;
+    margin-right: 210px;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    margin-top: -368px;
+
+}
+
+.tiktokk {
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 300px;
+    margin-top: -300px;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.calll {
+    float: right;
+    margin-right: 280px;
+    margin-top: -230px;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+
+}
+
+.kitty {
+    float: right;
+    width: 150px;
+    margin-top: -180px;
+    margin-right: 35px;
+}
+
+.duterte {
+    margin-left: 670px;
+    width: 150px;
+    margin-top: -150px;
+}
+
+.fb:hover {
+    transform: scale(1.2);
+
+}
+
+.ig:hover {
+    transform: scale(1.2);
+
+}
+
+.email:hover {
+    transform: scale(1.2);
+}
+
+.tiktok:hover {
+    transform: scale(1.2);
+
+}
+
+.call:hover {
+    transform: scale(1.2);
+}
+
+
+.a {
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+
+.b {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.c {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.d {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.album {
+    justify-content: center;
+    display: flex;
+    margin-top: -400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 480px;
+    background-color: #ef819c;
+    font-size: 40px;
+}
+
+. {
+    width: 300px;
+}
+
+.a:hover {
+    transform: scale(1.2);
+}
+
+.b:hover {
+    transform: scale(1.2);
+}
+
+.c:hover {
+    transform: scale(1.2);
+}
+
+.d:hover {
+    transform: scale(1.2);
+}
+
+.meds {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.lala {
+    margin-left: 50px;
+}
+
+.conn {
+    border: solid;
+}
+
+* {
+    box-sizing: border-box
+}
+
+.container {
+    width: 80%;
+    background-color: #ddd;
+    margin-left: 100px;
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.html {
+    width: 90%;
+    background-color: #a227a6;
+
+}
+
+.css {
+    width: 80%;
+    background-color: #2196F3;
+}
+
+.js {
+    width: 20%;
+    background-color: #eb456e;
+}
+
+.hh {
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+    background-color: hotpink;
+    margin-right: 1100px;
+    padding-left: 80px;
+    border-radius: 20px;
+}
+
+.cc {
+
+
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+    background-color: hotpink;
+    margin-right: 1100px;
+    padding-left: 100px;
+    border-radius: 20px;
+}
+
+.jj {
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+    background-color: hotpink;
+    margin-right: 1100px;
+    padding-left: 50px;
+    border-radius: 20px;
+}
+
+.omg {
+    font-size: 30px;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 10px;
+    margin-top: -1px;
+}
+
+.conn {
+    background-color: pink;
+    font-weight: bold;
+    margin-top: 295px;
+    margin-left: 50px;
+    margin-right: 600px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: transparent;
+    padding-top: 30px;
+    font-size: 30px;
+    padding-bottom: 500px;
+    border-radius: 20PX;
+}
+
+.lagay {
+    margin-top: -450px;
+    align-items: center;
+    display: flex;
+    margin-left: 150px;
+    background-color: transparent;
+    box-shadow: 5px 5px 8px rgb(207, 196, 196);
+    width: 500px;
+    height: 40px;
+}
+
+.put {
+    align-items: center;
+    display: flex;
+    margin-left: 150px;
+    background-color: transparent;
+    box-shadow: 5px 5px 8px rgb(207, 196, 196);
+    width: 500px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.mes {
+    align-items: center;
+    display: flex;
+    margin-left: 150px;
+    background-color: transparent;
+    box-shadow: 5px 5px 8px rgb(207, 196, 196);
+    width: 500px;
+    padding-bottom: 90px;
+    margin-top: 50px;
+
+
+}
+
+.send {
+    background-color: #eb456e;
+    padding: 20px;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: transparent;
+}
+
+.ANOTHER {
+    float: right;
+    margin-top: 295px;
+    margin-right: 40px;
+    background-color: #ef819c;
+    padding-right: 250px;
+    padding-left: 250px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-bottom: 520px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.ty {
+    float: right;
+    margin-right: 250px;
+    margin-top: -100px;
+    font-size: 30px;
+    color: white;
+}
+
+.ito {
+    font-size: 60px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: hotpink;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 15px;
+    margin-bottom: -130px;
+    margin-top: 100px;
+}
+
+.sched {
+    width: 500px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    border: solid, 10px;
+    border-color: #ef819c;
+}
+
+.order {
+    width: 500px;
+    margin-bottom: 50px;
+    border: solid, 10px;
+    border-color: #ef819c;
+}
+
+.resume {
+    width: 500px;
+    margin-left: 300px;
+    margin-right: 50px;
+    border: solid, 10px;
+    border-color: #ef819c;
+}
+
+.world {
+    width: 500px;
+    border: solid, 10px;
+    border-color: #ef819c;
+}
+
+.sched:hover {
+    transform: scale(1.2);
+}
+
+.world:hover {
+    transform: scale(1.2);
+}
+
+.resume:hover {
+    transform: scale(1.2);
+}
+
+.order:hover {
+    transform: scale(1.2);
+}
+
+.haha {
+    font-size: 25px;
+    background-color: pink;
+    margin-right: 1380px;
+    margin-top: -5PX;
+    border-radius: 10PX;
+    padding: 10PX;
+}
+
+.ace {
+    float: right;
+    margin-right: 40px;
+    background-color: pink;
+    padding-right: 250px;
+    padding-left: 250px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-bottom: 520px;
+    padding-top: 20px;
+    border-radius: 10px;
+    margin-right: 300px;
+}
+
+.paniwalaan {
+    float: right;
+    margin-top: -490px;
+    margin-right: 1050px;
+    background-color: beige;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.name {
+    float: right;
+    margin-right: 850px;
+    margin-top: -480px;
+}
+
+.ulam {
+    float: right;
+    background-color: beige;
+    padding: 6px;
+    border-radius: 50px;
+    margin-top: -430px;
+    margin-right: 1050px;
+}
+
+.sakin {
+    float: right;
+    margin-right: 635px;
+    margin-top: -420px;
+}
+
+.ilikeu {
+    float: right;
+    background-color: beige;
+    padding: 6px;
+    border-radius: 50px;
+    margin-top: -370px;
+    margin-right: 1050px;
+}
+
+.flatline {
+    float: right;
+    margin-right: 925px;
+    margin-top: -360px;
+}
+
+.dito {
+    float: right;
+    background-color: beige;
+    padding: 6px;
+    border-radius: 50px;
+    margin-top: -310px;
+    margin-right: 1050px;
+}
+
+.ken {
+    float: right;
+    margin-right: 750px;
+    margin-top: -300px;
+}
+
+.babyq {
+    float: right;
+    background-color: beige;
+    padding: 6px;
+    border-radius: 50px;
+    margin-top: -250px;
+    margin-right: 1050px;
+}
+
+.skol {
+    float: right;
+    margin-top: -240px;
+    margin-right: 905px;
+}
+
+.sigi {
+    color: hotpink;
+}
+
+.elem {
+    float: right;
+    margin-top: -210px;
+    margin-right: 770px;
+}
